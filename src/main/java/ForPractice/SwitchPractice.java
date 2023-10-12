@@ -17,6 +17,8 @@ public class SwitchPractice {
             case "Friday":
                 System.out.println("It's Friday!");
                 break;
+            default:
+                System.out.println("Wrong input");
         }
     }
 }
